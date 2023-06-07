@@ -1,4 +1,4 @@
-# ! Hola, mi nombre es Gustavo A. Rivera  👋
+# ¡Hola! mi nombre es Gustavo A. Rivera  👋
 
 Quiero mostrarte un resumen sobre mi paso en el mundo de la programación y desarrollo con las siguientes lineas:
 
