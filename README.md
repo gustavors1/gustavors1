@@ -6,7 +6,7 @@ A través de cursos y autodidactismo, he adquirido conocimiento en Git y GitHub.
 
 Además, he desarrollado habilidades en Python, desde los conceptos básicos hasta el manejo de estructuras de datos complejas y la implementación de lógica condicional y bucles. Mi experiencia abarca desde el manejo de Strings y listas hasta el uso de tuplas, sets y diccionarios. También he explorado conceptos más avanzados como las excepciones, la programación orientada a objetos y el manejo de ficheros. A medida que avanzo en mi aprendizaje, también estoy incursionando en el desarrollo BackEnd utilizando el framework FastAPI, lo cual me ha brindado una comprensión más profunda de la creación de APIs y el manejo de peticiones HTTP.
 
-También, he adquirido conocimientos iniciales en el uso de MongoDB y MongoDB Atlas para el almacenamiento y recuperación de datos, lo cual me ha permitido experimentar con bases de datos NoSQL . Y también debo nombrar los conocimientos adquiridos en JAVA para el desarrollo y que podrás ver en los repositorios.
+También, he adquirido conocimientos iniciales en el lenguaje C# y la tecnología .NET a través de Microsoft Learn. Y también debo nombrar los conocimientos adquiridos en JAVA para el desarrollo y que podrás ver en los repositorios.
 
 <!--
 **gustavors1/gustavors1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
